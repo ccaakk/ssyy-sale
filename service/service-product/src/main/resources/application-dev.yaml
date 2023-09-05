@@ -44,7 +44,7 @@ spring:
 
 aliyun:
   endpoint: oss-cn-beijing.aliyuncs.com
-  keyid: LTAI5t9cbv4yXMBGbSamg3S1
-  keysecret: Zv3tHgpI1NiW8CmyDcSXzcN9Xk6G7v
+  keyid: xxxxxxxxxxx #自己的  keyid
+  keysecret: xxxxxxxxxx #自己的  keysecret
   bucketname: ssyy-ccxk
 
