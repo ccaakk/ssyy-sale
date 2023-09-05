@@ -32,6 +32,6 @@ spring:
 wx:
   open:
     # 小程序appId
-    app_id: wxa9296caa62f61294
+    app_id: xxxxxxx
     # 小程序api秘钥
-    app_secret: 720aebdb904e25e8d5bf2c9fc4a3702b
+    app_secret: xxxxxxxx
